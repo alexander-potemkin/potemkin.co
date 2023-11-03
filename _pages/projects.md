@@ -1,16 +1,16 @@
 ---
 layout: page
-title: projects
+title: articles
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+description: Here you will find articles that you may find useful.
+nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+display_categories: [business, computer science]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
-<div class="projects">
+<div class="projects">  
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}

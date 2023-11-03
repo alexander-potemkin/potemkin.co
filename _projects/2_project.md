@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Apple’s overall earnings slump despite record iPhone and services revenue
+description: Company posts its fourth consecutive quarter of revenue loss but has shares up about 32.5% so far this year
+img: #assets/img/3.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: business
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

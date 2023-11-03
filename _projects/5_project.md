@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Using language to give robots a better grasp of an open-ended world
+description: By blending 2D images with foundation models to build 3D feature fields, a new MIT method helps robots understand and manipulate nearby objects with open-ended language prompts.
+img: #assets/img/1.jpg
 importance: 3
-category: fun
+category: computer science
 ---
 
 Every project has a beautiful feature showcase page.

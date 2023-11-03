@@ -1,10 +1,10 @@
 ---
 layout: page
-title: The Bond Market, a Sleeping Giant, Awakes
-description: Soaring interest rates have the power to alter the direction of the economy and command the attention of Washington, our columnist says.
+title: Мне положен ежегодный чекап на работе? А денежная компенсация за него?
+description: Рассказываем, как компании должны заботиться о здоровье наёмных сотрудников в 2023 году.
 img: #assets/img/12.jpg
 importance: 1
-category: #business
+category: business
 related_publications: 
 ---
 
@@ -15,10 +15,10 @@ Make your photos 1/3, 2/3, or full width.
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    for i in range(num):
+        print(matroshka)
+    class Sample():
+    __init__
     ---
 
 <div class="row">
