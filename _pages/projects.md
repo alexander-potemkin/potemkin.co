@@ -3,7 +3,7 @@ layout: page
 title: articles
 permalink: /projects/
 description: Here you will find articles that you may find useful.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [business, computer science]
 horizontal: true
