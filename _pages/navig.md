@@ -3,7 +3,7 @@ layout: default
 permalink: /navig/
 title: navigation
 description: here is all my posts splitted by categories
-nav: true
+nav: false
 nav_order: 3
 ---
 <div class="post">
