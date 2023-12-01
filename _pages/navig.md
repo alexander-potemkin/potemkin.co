@@ -1,15 +1,15 @@
 ---
 layout: default
 permalink: /navig/
-title: navigation
-description: here is all my posts splitted by categories
+title: TOC
+# description: table of content
 nav: true
-nav_order: 3
+nav_order: 2
 
 ---
 <div class="port">
 {% for category in site.categories %}
-    <h1 class="post-title"><i class="fas fa-tag fa-sm"></i>{{ category[0] }}</h1>
+    <h1 class="post-title">{{ category[0] }}</h1>
     <p class="post-desription">an archive of posts</p>
 
     <article>
