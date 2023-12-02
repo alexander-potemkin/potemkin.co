@@ -10,7 +10,6 @@ nav_order: 2
 <div class="port">
 {% for category in site.categories %}
     <h1 class="post-title">{{ category[0] }}</h1>
-    <p class="post-desription">an archive of posts</p>
 
     <article>
         <div class="table-responsive">
