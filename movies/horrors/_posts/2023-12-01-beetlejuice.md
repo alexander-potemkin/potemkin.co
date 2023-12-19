@@ -3,6 +3,7 @@ layout: post
 title: beetlejuice
 description: movie review
 tags: tag
+featured: true
 categories: category
 giscus_comments: false
 related_posts: false
@@ -15,4 +16,4 @@ related_posts: false
 **Director:** Tim Burton  
 **Release Year:** 1988  
 **Starring:** Michael Keaton, Alec Baldwin, Geena Davis, Winona Ryder
-
+![picture of film](/assets/img/bj.jpg)
